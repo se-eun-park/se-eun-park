@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=0:c792ea,100:7fdbca&height=200&section=header&text=caps%20render&fontSize=70&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=SeEun's%20GitHub&fontSize=70&color=0:7fdbca,100:c792ea&stroke=c792ea)
 <br />
 [S2S(sound to show)](https://github.com/6-Sense-AI/KDT-SoundToShow)
 <br />
