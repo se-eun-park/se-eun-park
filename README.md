@@ -19,19 +19,31 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-FF4785?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+<br><br><br>
+
+### Team Projects
+- [S2S(sound to show)](https://github.com/6-Sense-AI/KDT-SoundToShow)
+- [Face Manager.](https://github.com/se-eun-park/faceManager)
+- [The-Ji-Eun-Social-Welfare](https://github.com/The-Ji-Eun-Social-Welfare)
 <br>
 
-[S2S(sound to show)](https://github.com/6-Sense-AI/KDT-SoundToShow)
+### Personal Projects
+- [My webPortfolio](https://github.com/se-eun-park/webPortfolio)
 <br>
 
-[알고리즘 스터디](https://github.com/6-Sense-AI/AIVLE-AlgorithmStudy)
-<br>
+### Mini Projects
+- [Facebook-Issues](https://github.com/se-eun-park/facebook-Issues)
+- [simpleSignUp](https://github.com/se-eun-park/simpleSignUp)
+  
+<br><br><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krap4)](https://solved.ac/krap4)
-<br>
+<br><br><br>
 
 ![SeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeEun&theme=nightowl&show_icons=true)
-<br>
+<br><br><br>
 
+### Welcome My Blog!
 <a href="https://codingchick.tistory.com/"><img src="https://img.shields.io/badge/tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a>
+[알고리즘 스터디](https://github.com/6-Sense-AI/AIVLE-AlgorithmStudy)
