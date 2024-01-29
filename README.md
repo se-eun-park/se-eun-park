@@ -43,6 +43,8 @@
 
 ![SeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeEun&theme=nightowl&show_icons=true)
 <br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se-eun-park&layout=donut&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br>
 
 ### Welcome My Blog!
 <a href="https://codingchick.tistory.com/"><img src="https://img.shields.io/badge/tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a>
