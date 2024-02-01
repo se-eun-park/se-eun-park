@@ -41,7 +41,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krap4)](https://solved.ac/krap4)
 <br><br><br>
 
-![SeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeEun&theme=nightowl&show_icons=true)
+![SeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-eun-park&theme=nightowl&show_icons=true)
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se-eun-park&layout=donut&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
