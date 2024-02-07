@@ -33,7 +33,6 @@
 
 ### Mini Projects
 - [Facebook-Issues](https://github.com/se-eun-park/facebook-Issues)
-- [simpleSignUp](https://github.com/se-eun-park/simpleSignUp)
   
 <br><br><br>
 
