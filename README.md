@@ -40,11 +40,12 @@
       <a href="https://github.com/The-Ji-Eun-Social-Welfare">The-Ji-Eun-Social-Welfare</a>
     </td>
     <td align="center">
-       <a href="https://github.com/se-eun-park/webPortfolio">My webPortfolio</a>
+      <a href="https://github.com/se-eun-park/webPortfolio">My webPortfolio</a>
     </td>
     <td align="center">
-       <a href="https://github.com/se-eun-park/facebook-Issues">Facebook-Issues</a>
-       <a href="https://github.com/se-eun-park/instagramPJ">Instagram Clone Coding</a>
+      <a href="https://github.com/se-eun-park/facebook-Issues">Facebook-Issues</a>
+      <br><br>
+      <a href="https://github.com/se-eun-park/instagramPJ">Instagram Clone Coding</a>
     </td>
   </tr>
 </table>
