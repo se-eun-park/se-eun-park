@@ -57,9 +57,10 @@
 <br><br><br>
 
 ### 📚 Welcome My Archiving!
-<a href="https://codingchick.tistory.com/"><img src="https://img.shields.io/badge/tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/>
-<br>
+---
 [👾 알고리즘 스터디](https://github.com/6-Sense-AI/AIVLE-AlgorithmStudy)
 &nbsp; / &nbsp; 
 [🎨 FE 스터디](https://github.com/SSA-FE)
+<br><br>
+<a href="https://codingchick.tistory.com/"><img src="https://img.shields.io/badge/tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/>
 </div>
