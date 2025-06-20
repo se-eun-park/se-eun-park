@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=SeEun's%20GitHub&fontSize=70&color=0:7fdbca,100:c792ea&stroke=c792ea)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SeEun's%20GitHub&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 <br><br><br>
 
 ### 🛠 Skills
