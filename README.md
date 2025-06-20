@@ -33,7 +33,7 @@
 <br><br>
 
 
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se-eun-park&layout=compact&theme=nightowl&hide_border=true" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se-eun-park&layout=compact&theme=nightowl&hide_border=true&hide=html,Java&langs_count=4" />
 &nbsp;
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=se-eun-park&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="SeEun's GitHub stats" />
 <br><br><br>
